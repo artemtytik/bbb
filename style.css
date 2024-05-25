@@ -1,0 +1,24 @@
+body {
+    font-family: sans-serif;
+    background-image: linear-gradient(aquamarine, white);
+   color: aliceblue;
+}
+h1 {
+    text-align: center;
+    color: aliceblue;
+}
+main img{
+    flex: content;
+    display: flex;
+    margin: 0 auto;
+}
+nav a {
+    text-decoration: none;
+    color: aliceblue;
+}
+.a{
+    text-align: end;
+}
+.b{
+    text-align: end;
+}
